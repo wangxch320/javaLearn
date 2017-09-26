@@ -1,0 +1,3 @@
+INDEX VERSION 1.126
+F:\code\java\helloWord\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\702677952.index
+\struts2learn\src

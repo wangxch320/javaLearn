@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deployments>
+  <deployment context-root="" deployment-path="F:/code/java/helloWord/.metadata/.me_tcat/webapps/struts2learn" project-name="struts2learn" server-id="myeclipseTomcatServer" should-backup="true" state="DEPLOYED" type="WEB"/>
+</deployments>
