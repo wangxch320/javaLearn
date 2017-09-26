@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;SpringMVCTest/WebRoot/WEB-INF/springDispatcherServlet.xml&apos; to &apos;springDispatcherServlet-servlet.xml&apos;" description="Rename resource &apos;springDispatcherServlet.xml&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="WebRoot/WEB-INF/springDispatcherServlet.xml" name="springDispatcherServlet-servlet.xml" stamp="1506434317257" updateReferences="true"/>
+</session>
