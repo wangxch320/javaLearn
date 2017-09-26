@@ -18,5 +18,6 @@
 			<attribute name="org.eclipse.jst.component.dependency" value="WEB-INF/lib"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="lib" path="F:/software/java/sqljdbc_6.0.8112.100_enu/sqljdbc_6.0/enu/jre7/sqljdbc41.jar"/>
 	<classpathentry kind="output" path="WebRoot/WEB-INF/classes"/>
 </classpath>

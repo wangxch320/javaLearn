@@ -334,3 +334,6 @@ java.nio.channels.ClosedChannelException
 
 !ENTRY com.genuitec.eclipse.core 1 0 2017-09-26 20:29:44.010
 !MESSAGE Unable to locate .myeclipse.properties file
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2017-09-26 20:49:39.695
+!MESSAGE Unable to update index for central|http://repo.maven.apache.org/maven2
